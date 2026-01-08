@@ -1,0 +1,44 @@
+/* div{
+    background-color: pink;
+    height: 400px;
+    width: 100vh;
+}
+ul{
+    background-color: blue;
+}
+li{
+    background-color: greenyellow;
+} */
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+   border: 10px solid black;
+   margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color:green ;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
